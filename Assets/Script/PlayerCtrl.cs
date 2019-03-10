@@ -65,27 +65,24 @@ public class PlayerCtrl : MonoBehaviour {
 		{
 			animator.SetBool("Run", false);
 		}
-		if (move.magnitude>=0.6f)
-		{
-			lastBigMove = move;
-		}
+		
 
 		rb.velocity = (move * speed * Time.deltaTime);	
 		if(Input.GetKeyDown(KeyCode.Joystick1Button0) && !dashing)
 		{
 			Debug.Log("Hey"+ this.gameObject);
-			dashing = true;
-			posOnStartDash = rb.position;
-			posEndDash = rb.position + lastBigMove.normalized * 5;
+			
+			posOnStartDash = transform.position;
+			posEndDash = transform.position + (Vector3)move.normalized * 3;
 			LayerMask mask = LayerMask.GetMask("Default");
-			RaycastHit2D hit = Physics2D.Raycast(transform.position,posEndDash,5f,mask);
+			RaycastHit2D hit = Physics2D.Raycast(transform.position,move,Vector3.Distance(transform.position,posEndDash));
 			if(hit)
 			{			
 				Debug.Log(hit.collider.gameObject);
-				posEndDash = hit.transform.position;
-			}
-
-			timer = 0;		
+				posEndDash = hit.point;
+			} 
+			timer = 0;
+			dashing = true;
 		}
 		if(dashing)
 		{
@@ -100,7 +97,7 @@ public class PlayerCtrl : MonoBehaviour {
 				ghost.enabled = false;
 			}
 			
-			rb.position = Vector3.Lerp(posOnStartDash,posEndDash,easing.Evaluate(timer));
+			transform.position = Vector3.Lerp(posOnStartDash,posEndDash,easing.Evaluate(timer));
 		}
 	}	
 
@@ -128,18 +125,18 @@ public class PlayerCtrl : MonoBehaviour {
 		if(Input.GetKeyDown(KeyCode.Joystick2Button0) && !dashing)
 		{
 			Debug.Log("Hey"+ this.gameObject);
-			dashing = true;
-			posOnStartDash = rb.position;
-			posEndDash = rb.position + lastBigMove.normalized * 5;
+			
+			posOnStartDash = transform.position;
+			posEndDash = transform.position + (Vector3)move.normalized * 3;
 			LayerMask mask = LayerMask.GetMask("Default");
-			RaycastHit2D hit = Physics2D.Raycast(transform.position,posEndDash,5f,mask);
+			RaycastHit2D hit = Physics2D.Raycast(transform.position,move,Vector3.Distance(transform.position,posEndDash));
 			if(hit)
 			{			
 				Debug.Log(hit.collider.gameObject);
-				posEndDash = hit.transform.position;
-			}
-
-			timer = 0;		
+				posEndDash = hit.point;
+			} 
+			timer = 0;
+			dashing = true;
 		}
 		if(dashing)
 		{
@@ -149,12 +146,12 @@ public class PlayerCtrl : MonoBehaviour {
 			timer+= Time.deltaTime * 5;
 			if(timer>=1)
 			{
-				timer=1;								
-				ghost.enabled = false;
+				timer=1;				
 				dashing = false;
+				ghost.enabled = false;
 			}
 			
-			rb.position = Vector3.Lerp(posOnStartDash,posEndDash,easing.Evaluate(timer));
+			transform.position = Vector3.Lerp(posOnStartDash,posEndDash,easing.Evaluate(timer));
 		}
 	}	
 }
