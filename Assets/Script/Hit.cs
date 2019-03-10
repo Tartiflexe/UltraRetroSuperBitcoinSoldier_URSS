@@ -23,7 +23,7 @@ public class Hit : MonoBehaviour {
 
 		if(other.GetComponent<Bitcoin>().hitCount == 0)
 		{			
-			other.GetComponent<Rigidbody2D>().velocity = aim * 200;
+			other.GetComponent<Rigidbody2D>().velocity = aim.normalized * 200000;
 		}
 
 		if(atk)

@@ -208,7 +208,8 @@ public class PlayerCtrl : MonoBehaviour {
 			atkTimer = 0;
 			HitBox.GetComponent<Hit>().atk = true;
 			HitBox.GetComponent<Hit>().aim = move;
-			attaking = true;			
+			attaking = true;
+			animator.SetTrigger("Doble");			
 		}
 		if(Input.GetKeyDown(KeyCode.Joystick2Button1) && !attaking)
 		{
