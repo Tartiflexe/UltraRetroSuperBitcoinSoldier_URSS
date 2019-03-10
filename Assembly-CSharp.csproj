@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{583CD4B7-7FD6-9297-B07F-235913C7F552}</ProjectGuid>
+    <ProjectGuid>{FECE7BE9-8737-4276-E91B-C800F952AA49}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -54,17 +54,22 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Script\PlayerCtrl.cs" />
+     <Compile Include="Assets\SpriteGhostTrailRenderer\ActionCode2D\Scripts\Cameras\CameraLockFollow.cs" />
+     <Compile Include="Assets\SpriteGhostTrailRenderer\ActionCode2D\Scripts\Effects\SizeEffector.cs" />
+     <Compile Include="Assets\SpriteGhostTrailRenderer\ActionCode2D\Scripts\Motors\SimplePlayerMotor.cs" />
+     <Compile Include="Assets\SpriteGhostTrailRenderer\ActionCode2D\Scripts\Renderers\SpriteGhostTrailRenderer.cs" />
+     <None Include="Assets\SpriteGhostTrailRenderer\readme.txt" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>D:/Work in Progress/UltraRetroSuperbitcoinSoldier/UltraRetroSuperBitcoinSoldier_URSS/UltraSuperbitcoinSoldier/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/markt/Desktop/UltraRetroSuperBitcoinSoldier_URSS/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/Work in Progress/UltraRetroSuperbitcoinSoldier/UltraRetroSuperBitcoinSoldier_URSS/UltraSuperbitcoinSoldier/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/markt/Desktop/UltraRetroSuperBitcoinSoldier_URSS/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>D:/Work in Progress/UltraRetroSuperbitcoinSoldier/UltraRetroSuperBitcoinSoldier_URSS/UltraSuperbitcoinSoldier/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/markt/Desktop/UltraRetroSuperBitcoinSoldier_URSS/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/Work in Progress/UltraRetroSuperbitcoinSoldier/UltraRetroSuperBitcoinSoldier_URSS/UltraSuperbitcoinSoldier/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/markt/Desktop/UltraRetroSuperBitcoinSoldier_URSS/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/Unity/2018.2.18f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

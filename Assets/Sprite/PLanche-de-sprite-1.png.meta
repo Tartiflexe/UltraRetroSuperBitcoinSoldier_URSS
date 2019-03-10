@@ -1,0 +1,1845 @@
+fileFormatVersion: 2
+guid: 25385135749a10c4bacd68f53f2ac6bb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PLanche-de-sprite-1_0
+    21300002: PLanche-de-sprite-1_1
+    21300004: PLanche-de-sprite-1_2
+    21300006: PLanche-de-sprite-1_3
+    21300008: PLanche-de-sprite-1_4
+    21300010: PLanche-de-sprite-1_5
+    21300012: PLanche-de-sprite-1_6
+    21300014: PLanche-de-sprite-1_7
+    21300016: PLanche-de-sprite-1_8
+    21300018: PLanche-de-sprite-1_9
+    21300020: PLanche-de-sprite-1_10
+    21300022: PLanche-de-sprite-1_11
+    21300024: PLanche-de-sprite-1_12
+    21300026: PLanche-de-sprite-1_13
+    21300028: PLanche-de-sprite-1_14
+    21300030: PLanche-de-sprite-1_15
+    21300032: PLanche-de-sprite-1_16
+    21300034: PLanche-de-sprite-1_17
+    21300036: PLanche-de-sprite-1_18
+    21300038: PLanche-de-sprite-1_19
+    21300040: PLanche-de-sprite-1_20
+    21300042: PLanche-de-sprite-1_21
+    21300044: PLanche-de-sprite-1_22
+    21300046: PLanche-de-sprite-1_23
+    21300048: PLanche-de-sprite-1_24
+    21300050: PLanche-de-sprite-1_25
+    21300052: PLanche-de-sprite-1_26
+    21300054: PLanche-de-sprite-1_27
+    21300056: PLanche-de-sprite-1_28
+    21300058: PLanche-de-sprite-1_29
+    21300060: PLanche-de-sprite-1_30
+    21300062: PLanche-de-sprite-1_31
+    21300064: PLanche-de-sprite-1_32
+    21300066: PLanche-de-sprite-1_33
+    21300068: PLanche-de-sprite-1_34
+    21300070: PLanche-de-sprite-1_35
+    21300072: PLanche-de-sprite-1_36
+    21300074: PLanche-de-sprite-1_37
+    21300076: PLanche-de-sprite-1_38
+    21300078: PLanche-de-sprite-1_39
+    21300080: PLanche-de-sprite-1_40
+    21300082: PLanche-de-sprite-1_41
+    21300084: PLanche-de-sprite-1_42
+    21300086: PLanche-de-sprite-1_43
+    21300088: PLanche-de-sprite-1_44
+    21300090: PLanche-de-sprite-1_45
+    21300092: PLanche-de-sprite-1_46
+    21300094: PLanche-de-sprite-1_47
+    21300096: PLanche-de-sprite-1_48
+    21300098: PLanche-de-sprite-1_49
+    21300100: PLanche-de-sprite-1_50
+    21300102: PLanche-de-sprite-1_51
+    21300104: PLanche-de-sprite-1_52
+    21300106: PLanche-de-sprite-1_53
+    21300108: PLanche-de-sprite-1_54
+    21300110: PLanche-de-sprite-1_55
+    21300112: PLanche-de-sprite-1_56
+    21300114: PLanche-de-sprite-1_57
+    21300116: PLanche-de-sprite-1_58
+    21300118: PLanche-de-sprite-1_59
+    21300120: PLanche-de-sprite-1_60
+    21300122: PLanche-de-sprite-1_61
+    21300124: PLanche-de-sprite-1_62
+    21300126: PLanche-de-sprite-1_64
+    21300128: PLanche-de-sprite-1_65
+    21300130: PLanche-de-sprite-1_66
+    21300132: PLanche-de-sprite-1_67
+    21300134: PLanche-de-sprite-1_68
+    21300136: PLanche-de-sprite-1_69
+    21300138: PLanche-de-sprite-1_70
+    21300140: PLanche-de-sprite-1_71
+    21300142: PLanche-de-sprite-1_72
+    21300144: PLanche-de-sprite-1_73
+    21300146: PLanche-de-sprite-1_74
+    21300148: PLanche-de-sprite-1_75
+    21300150: PLanche-de-sprite-1_76
+    21300152: PLanche-de-sprite-1_77
+    21300154: PLanche-de-sprite-1_78
+    21300156: PLanche-de-sprite-1_79
+    21300158: PLanche-de-sprite-1_80
+    21300160: PLanche-de-sprite-1_81
+    21300162: PLanche-de-sprite-1_82
+    21300164: PLanche-de-sprite-1_83
+    21300166: PLanche-de-sprite-1_84
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 818
+        width: 49
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3072a8ecce4a2834abe93d56b1f73257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 818
+        width: 48
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968b7300525a9c048892547295011a58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 818
+        width: 49
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd6694e7dd59cf44a77c6b9937bc1af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 818
+        width: 49
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89256384b4e8bca4faf0a0a103bfaea3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_4
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 818
+        width: 49
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e68a8557188dc249995589d1f56f04e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_5
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 818
+        width: 48
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79a7eef2c143c440b47fcdc207beb3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_6
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 818
+        width: 49
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a109165b4671a45830e0c37880e2dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_7
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 818
+        width: 49
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd0f610b5b88ea49acdea6ea90aedfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_8
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 818
+        width: 49
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2162f11edf8581248a3b7489925abf7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_9
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 818
+        width: 48
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17590c38b0faecc4a82596d83d26bc12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_10
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 818
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44f4949dd8045845b83224e68a5e679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_11
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 818
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8325a2ef7394dae46bf74b8d3a860061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_12
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 818
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f533a22720ab00745a817231083457d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_13
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 818
+        width: 49
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce16fd2a194f95345874fb6944647a41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_14
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 818
+        width: 48
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7cf2cb0ef5cb94ab129e70322445fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_15
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 818
+        width: 49
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9748fcd7462228f449ee7f00a1d7878b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_16
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 818
+        width: 49
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116675bdcb05d9249be162b197c8a611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_17
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 818
+        width: 49
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c83182642388b4fb7c2b7d3fce8343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_18
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 818
+        width: 48
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ea1819a68dc87499398b45fc50e109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_19
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 818
+        width: 49
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28e06b8a693254439b47244e5395431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_20
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 818
+        width: 49
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7902680fe2e824cb9ad68ce1e59098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_21
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 818
+        width: 49
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c28afd9d7940564aa8572e2762a2634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_22
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 638
+        width: 80
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d153af7c4ad051c4996b34ce24f9ce9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_23
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 638
+        width: 91
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544895798430c2f42a5b1ffe096eb8e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_24
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 638
+        width: 92
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007438048a5c02e4395f9b8be36f13f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_25
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 638
+        width: 88
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced6236ca206d0149baea7a898e2f789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_26
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 638
+        width: 88
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db01022ec73e821438ccd0567215a454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_27
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 638
+        width: 80
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9c8dc7a5a3d824d9c5208b0ca0f14d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_28
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 638
+        width: 78
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3298d5a1eecc81344949dec78117ed4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_29
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 638
+        width: 76
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea65b63fc5bc4142a8b70cabfc0d778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_30
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 638
+        width: 49
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8213248d5e7b66c46be8f35106a4030f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_31
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 638
+        width: 58
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a5d534b638fcf4083e51bb056a274a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_32
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 638
+        width: 52
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a786757e31706984c86362779072b59f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_33
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 638
+        width: 49
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fcb2a2b12db164a8164dd897629ccf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_34
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 638
+        width: 48
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d7e6655a73e724d8098ac8bcad664f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_35
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 638
+        width: 48
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908ae1de689aef244b60ef175e6db85d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_36
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 458
+        width: 54
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34e3404659306f46b3046935b49a17e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_37
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 458
+        width: 58
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5f955e07b867c4fa7220b813363dd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_38
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 458
+        width: 56
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb0f4741d76f2a48b04120769cd9633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_39
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 458
+        width: 55
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271cd62d9fce97e46b3f2d37db8eee1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_40
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 458
+        width: 55
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c857285f5fed833498c72dcd8a73900a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_41
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 458
+        width: 57
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3be685ee3e29545a007ef32f2f6ef5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_42
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 458
+        width: 67
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efc1cb6516b2fd41bc3fb2ce87a89de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_43
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 458
+        width: 75
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dd25bbe69f7524f98f59242efefeca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_44
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 458
+        width: 68
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665fb0c587a2729409e64d4738e5e0be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_45
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 458
+        width: 54
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea09fef4798af64fa6ba90ae3764feb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_46
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 458
+        width: 48
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2f8e0a02bcf394d91ca475e46c4266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_47
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 458
+        width: 49
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff094fa2f916d9c46ba89fbc83060b35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_48
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 458
+        width: 49
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58622ecf22ad3b4ea9c92aa639322c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_49
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 460
+        width: 48
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43c551a096bd184dbeab3d34fe6cac6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_50
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 458
+        width: 49
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02492f008760384ea7a3e44e5834598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_51
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 458
+        width: 48
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5bf8bab32131242bdffc1f51aa6c4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_52
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 449
+        width: 75
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d31965ac4367740af9f1f08a6d7fdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_53
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 284
+        width: 64
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3b445af40b9314cb34cd2a21616021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_54
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 284
+        width: 56
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c301a1009f92c17489712fda4754d8d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_55
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 284
+        width: 57
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3572c65ddd18f994b899ac24a89a740d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_56
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 284
+        width: 66
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de97df77581545c46b662012c59609dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_57
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 284
+        width: 69
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f4a76cf7200534facfa82714a6091c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_58
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 284
+        width: 56
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23aa243739ae08d41a4eed03b00f1a53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_59
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 272
+        width: 68
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470d4aab6853f224aaf979b04f11e449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_60
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 284
+        width: 72
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c649d6f2d481fac4b828cebf43e30a3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_61
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 288
+        width: 61
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7de9ee17536954f9c3093633519ec4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_64
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 53
+        width: 52
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ab26ad6e9946545a4a205ac0aede33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_65
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 76
+        width: 58
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f29ea8f344a20418963dfa04d6e810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_66
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 109
+        width: 57
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ce98f6a35553741a716d167eb44ec0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_67
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 111
+        width: 57
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110644ce383d1a44eb73932d6bd2cf6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_68
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 111
+        width: 57
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1138dd15c210442886e0db7b61c053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_69
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 110
+        width: 53
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9773f13b854d748b54d569359aaa82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_70
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 53
+        width: 74
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92f0d874a5eade48b3a1e3637d29496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_71
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 53
+        width: 79
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01998749790470046af45c6460cdf3ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_72
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 53
+        width: 91
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bbb8accbaab614ba5a2852cb1b4d9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_73
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 53
+        width: 87
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561718fd45f37ef4e8fbc1bc9835f800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_74
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 53
+        width: 84
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834989c1fdb07a542a80589975873e71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_75
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 53
+        width: 53
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ea5460f80c55344b0eded6cf86a954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_76
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 53
+        width: 70
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9150f0a360219e40acff71bff8b9ff9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_77
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 53
+        width: 72
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ad51a7e2724af47ad3bbbf4f90da7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_78
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 53
+        width: 67
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e16953d82d8f741909f40dac8c380c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_79
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 53
+        width: 62
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7becde09ae0a31d4eb30c90dfd0f3d32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_80
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 53
+        width: 49
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d445bca7273fec4ea67ec6aa34a5540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_81
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 53
+        width: 49
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06463cd018ffb2443be88f27f1eea2c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_82
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 53
+        width: 49
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ff6a93180896247816e50463ba131d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PLanche-de-sprite-1_83
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 53
+        width: 49
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0206b106b373b9844960e944ce6df0ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 984236fdab8ebbc42860a71cac6a6b6c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
