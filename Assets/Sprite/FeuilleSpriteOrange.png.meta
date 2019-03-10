@@ -1,0 +1,2053 @@
+fileFormatVersion: 2
+guid: 154bde100337f4844847b0c50e63c9e2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FeuilleSpriteOrange_0
+    21300002: FeuilleSpriteOrange_1
+    21300004: FeuilleSpriteOrange_2
+    21300006: FeuilleSpriteOrange_3
+    21300008: FeuilleSpriteOrange_4
+    21300010: FeuilleSpriteOrange_5
+    21300012: FeuilleSpriteOrange_6
+    21300014: FeuilleSpriteOrange_7
+    21300016: FeuilleSpriteOrange_8
+    21300018: FeuilleSpriteOrange_9
+    21300020: FeuilleSpriteOrange_10
+    21300022: FeuilleSpriteOrange_11
+    21300024: FeuilleSpriteOrange_12
+    21300026: FeuilleSpriteOrange_13
+    21300028: FeuilleSpriteOrange_14
+    21300030: FeuilleSpriteOrange_15
+    21300032: FeuilleSpriteOrange_16
+    21300034: FeuilleSpriteOrange_17
+    21300036: FeuilleSpriteOrange_18
+    21300038: FeuilleSpriteOrange_19
+    21300040: FeuilleSpriteOrange_20
+    21300042: FeuilleSpriteOrange_21
+    21300044: FeuilleSpriteOrange_22
+    21300046: FeuilleSpriteOrange_23
+    21300048: FeuilleSpriteOrange_24
+    21300050: FeuilleSpriteOrange_25
+    21300052: FeuilleSpriteOrange_26
+    21300054: FeuilleSpriteOrange_27
+    21300056: FeuilleSpriteOrange_28
+    21300058: FeuilleSpriteOrange_29
+    21300060: FeuilleSpriteOrange_30
+    21300062: FeuilleSpriteOrange_31
+    21300064: FeuilleSpriteOrange_32
+    21300066: FeuilleSpriteOrange_33
+    21300068: FeuilleSpriteOrange_34
+    21300070: FeuilleSpriteOrange_35
+    21300072: FeuilleSpriteOrange_36
+    21300074: FeuilleSpriteOrange_37
+    21300076: FeuilleSpriteOrange_38
+    21300078: FeuilleSpriteOrange_39
+    21300080: FeuilleSpriteOrange_40
+    21300082: FeuilleSpriteOrange_41
+    21300084: FeuilleSpriteOrange_42
+    21300086: FeuilleSpriteOrange_43
+    21300088: FeuilleSpriteOrange_44
+    21300090: FeuilleSpriteOrange_45
+    21300092: FeuilleSpriteOrange_46
+    21300094: FeuilleSpriteOrange_47
+    21300096: FeuilleSpriteOrange_48
+    21300098: FeuilleSpriteOrange_49
+    21300100: FeuilleSpriteOrange_50
+    21300102: FeuilleSpriteOrange_51
+    21300104: FeuilleSpriteOrange_52
+    21300106: FeuilleSpriteOrange_53
+    21300108: FeuilleSpriteOrange_54
+    21300110: FeuilleSpriteOrange_55
+    21300112: FeuilleSpriteOrange_56
+    21300114: FeuilleSpriteOrange_57
+    21300116: FeuilleSpriteOrange_58
+    21300118: FeuilleSpriteOrange_59
+    21300120: FeuilleSpriteOrange_60
+    21300122: FeuilleSpriteOrange_61
+    21300124: FeuilleSpriteOrange_62
+    21300126: FeuilleSpriteOrange_63
+    21300128: FeuilleSpriteOrange_64
+    21300130: FeuilleSpriteOrange_65
+    21300132: FeuilleSpriteOrange_66
+    21300134: FeuilleSpriteOrange_67
+    21300136: FeuilleSpriteOrange_68
+    21300138: FeuilleSpriteOrange_69
+    21300140: FeuilleSpriteOrange_70
+    21300142: FeuilleSpriteOrange_71
+    21300144: FeuilleSpriteOrange_72
+    21300146: FeuilleSpriteOrange_73
+    21300148: FeuilleSpriteOrange_74
+    21300150: FeuilleSpriteOrange_75
+    21300152: FeuilleSpriteOrange_76
+    21300154: FeuilleSpriteOrange_77
+    21300156: FeuilleSpriteOrange_78
+    21300158: FeuilleSpriteOrange_79
+    21300160: FeuilleSpriteOrange_80
+    21300162: FeuilleSpriteOrange_81
+    21300164: FeuilleSpriteOrange_82
+    21300166: FeuilleSpriteOrange_83
+    21300168: FeuilleSpriteOrange_88
+    21300170: FeuilleSpriteOrange_89
+    21300172: FeuilleSpriteOrange_90
+    21300174: FeuilleSpriteOrange_91
+    21300176: FeuilleSpriteOrange_92
+    21300178: FeuilleSpriteOrange_93
+    21300180: FeuilleSpriteOrange_94
+    21300182: FeuilleSpriteOrange_95
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1932
+        width: 111
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f7f9f38af5e2d4b98eed8742e9c399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1932
+        width: 109
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb90b4a70a36b34b90a539ce07cb266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1932
+        width: 109
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a0372fe47079848b9dcafa4eaef2e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_3
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1932
+        width: 110
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904ce46200af5d04bb8c99bf7bbd34de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_4
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1932
+        width: 106
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0aebc51b54f8d4590c8540fbc7975b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_5
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1932
+        width: 108
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c886c32e306ff74babce28610aebe62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_6
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1932
+        width: 108
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6be426b50353374381877f9cc246256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_7
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1932
+        width: 108
+        height: 190
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a6086ca5ece1c4498d3804da543839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_8
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1932
+        width: 108
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7735a820f6856f4685d4b38a9014c12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_9
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1932
+        width: 108
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f925aad441aa07448cc95bdb28467d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_10
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1932
+        width: 106
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b528e337eead8eb44aad31b14938a0db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_11
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1932
+        width: 107
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4531f2db88b5743b0480ab1166464b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_12
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 1932
+        width: 108
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef7519fcf77b974cb66728b98641463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_13
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 1932
+        width: 108
+        height: 190
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1d85a6111bf8a4aa0beda3f7f886e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_14
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 1932
+        width: 108
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba3302f0d19fd6499caffeefbf7cf62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_15
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 1932
+        width: 107
+        height: 190
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7c620510eb4d843921ae1bac8a7dcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_16
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 1932
+        width: 108
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5b2a51123209147b0c1ee350725ef5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_17
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 1932
+        width: 107
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd4f3a945d1ab0409aa40e47c205e26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_18
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 1932
+        width: 109
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6c6b6372e195946b505e6a97c9af7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_19
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 1932
+        width: 108
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70407f2e3a8329947a96b0537eacc25b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_20
+      rect:
+        serializedVersion: 2
+        x: 3463
+        y: 1932
+        width: 108
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de94ae2fdd88bf34d8f871c3c86dd155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_21
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 1932
+        width: 110
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed955f3183bef384db728e373298be01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_22
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1543
+        width: 177
+        height: 204
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b70ccba7fba13d46b153bab6d551a10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1543
+        width: 198
+        height: 204
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9681c22a89f1ea7479681159a5168635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_24
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1543
+        width: 201
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dd748615402394587d23425a3c39dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_25
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1543
+        width: 192
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61b65aeb594e0042b48fc8aa61b1999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_26
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1543
+        width: 195
+        height: 198
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626c9c654c6471b48b17c90de2048374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_27
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1543
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bec260c803e03d4bad17185617c96f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_28
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1543
+        width: 171
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d175dd313edf395418d43d6e51715b07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_29
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1543
+        width: 165
+        height: 201
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c612b41a5e0cca4bb5dea0f734703b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_30
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1543
+        width: 108
+        height: 190
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a74baa85639d5b4ca74e7c4804b37e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_31
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1543
+        width: 127
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c44fdc08b70f0648a7e00a63fed8c50
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_32
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1543
+        width: 115
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436fba8f5de046440844a44db3ac3647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_33
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1543
+        width: 108
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae1a68f1ae19514a9dec7746eb76fe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_34
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 1543
+        width: 107
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d645134c8de0b046a470e0af4762568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_35
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 1543
+        width: 108
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e79d8395087f3f4085dafdd98f00001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_36
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1154
+        width: 118
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883d9647291d7fd4093245e700805e43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_37
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1154
+        width: 130
+        height: 216
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d4d0d9f7ebe9e4ba9fca3039c18566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_38
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1154
+        width: 125
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566e6860a127b7e48a4d727132e81ced
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_39
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1154
+        width: 128
+        height: 233
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6da34f6370af345b16add9c4982347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_40
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1154
+        width: 128
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6516b9cd251cb74f8da31cc643cbcfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_41
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1154
+        width: 128
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2413cef5f65fae24c8340b8617031daa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_42
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1154
+        width: 146
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0590b3f4c2bbff48b1bbf2632b9734f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_43
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1154
+        width: 165
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4478dc0cbfd6ff4990956897680fe1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_44
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1154
+        width: 149
+        height: 159
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3c0aa35c1b56645b6fc0b2820a51aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_45
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1154
+        width: 118
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec042475997b4147b1d4f86830d6567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_46
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1154
+        width: 108
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb322a65e4750346a07be1cee56fbd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_47
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 1154
+        width: 108
+        height: 196
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4be24f734eff4048a4a5122a6d65951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_48
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1154
+        width: 108
+        height: 196
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8646c312d0b7c348bf5074925aa779d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_49
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 1154
+        width: 108
+        height: 205
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654317d26498ddc418e9b5ad38bf37ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_50
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1154
+        width: 108
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35ce51fc63463f4d81040dbf962c6e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_51
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 1154
+        width: 108
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee169ea775377e4490e6458563d233b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_52
+      rect:
+        serializedVersion: 2
+        x: 3603
+        y: 1137
+        width: 165
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186a0cd62816693428c66eff0bf9ec0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_53
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 779
+        width: 140
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c06dbe61fb77b94f8e5013a7709082c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_54
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 779
+        width: 123
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fb9ee1a5dba9a44a6cf435faafc6f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_55
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 779
+        width: 128
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b97298819a3ab47950d143450f6273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_56
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 779
+        width: 150
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869003b7c12990a459e8f8d1c0b2a0dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_57
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 779
+        width: 154
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6b65f1af0630c4e958712345c973fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_58
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 779
+        width: 124
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff89943707dd24d4b9ed01a79e71ad13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_59
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 755
+        width: 149
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cac1d7150b9464cb6902ac49c7c0f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_60
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 801
+        width: 156
+        height: 174
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e3833ac3710634ba7f490a14d066be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_61
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 788
+        width: 135
+        height: 212
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969a9ba5defc30749a559b085d07878b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_62
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 779
+        width: 135
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834c4b2fd4409cc4ca3d34c79c645c21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_63
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 779
+        width: 134
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273d6f1004f1501478ecd459f9fc9bd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_64
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 385
+        width: 114
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa6da7df464b824daf2f6c454a8aaa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_65
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 385
+        width: 128
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5efa7329b73954789a218be9132ea7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_66
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 385
+        width: 130
+        height: 312
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608111af841eebd4b985754e9ae0e729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_67
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 385
+        width: 126
+        height: 316
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60785b1f53a87f45bab55a98ce5f2ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_68
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 385
+        width: 124
+        height: 316
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fd49ebc2ca2384d93fb99dcb7adae1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_69
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 385
+        width: 121
+        height: 312
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59dde155d2b82b4eb3e7b35f579b162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_70
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 385
+        width: 161
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c77abae4c7e57c4e8b348997984e210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_71
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 385
+        width: 172
+        height: 197
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c127d26692c8ea4eb4d0cfd36caaa73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_72
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 385
+        width: 201
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0b4fb99b7c63c46bd019cd13dbbfb2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_73
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 385
+        width: 190
+        height: 207
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f70bc53b1528245bf36e8698b4f3a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_74
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 385
+        width: 185
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535e9e53a085a6a408d73735b41a3adb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_75
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 385
+        width: 118
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06e653bb92703147bd076a0be695e96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_76
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 385
+        width: 151
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d758e404929a00442aeef43a6634c79d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_77
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 385
+        width: 160
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52efac6360233242bf76adbfa2d967a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_78
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 385
+        width: 148
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c59dc6ce71392643822acd7ce3ab2da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_79
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 385
+        width: 139
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e36281a72995e4caedf81ff5d00e92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_80
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 385
+        width: 109
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47eed3ec23337c84b8d5637b42ceb96d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_81
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 385
+        width: 109
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4ddff8b97515344bc013ad74b64ed9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_82
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 385
+        width: 110
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df70c09fd4862a4c9bff40a9215197e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_83
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 385
+        width: 111
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b263365db8269af43aece87960eb6d99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_88
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 41
+        width: 142
+        height: 215
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9634979394b2ff4e837aa535bc1ecdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_89
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 41
+        width: 128
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b321f8fe1465664dbcfefd8203b1525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_90
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 41
+        width: 129
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6829c43ffa21d146b99425234e8ef47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_91
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 41
+        width: 128
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abac4ec30092bfd4fa0848e66a6487f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_92
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 41
+        width: 129
+        height: 215
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67ae262982d12c4ab2367f0603e216c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_93
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 41
+        width: 128
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95724d732b5b61d4f826535abbce333a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_94
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 41
+        width: 128
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec20b4d7ae4d2304689e226186b4d73d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FeuilleSpriteOrange_95
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 41
+        width: 128
+        height: 204
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9515d81f1698b6f44888d586e4dd946a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5b7afa3da1ef0b84cbcaa2870c6b6bc2
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

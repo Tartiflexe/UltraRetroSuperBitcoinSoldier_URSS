@@ -64,13 +64,22 @@ public class PlayerCtrl : MonoBehaviour {
 
 		if (move.magnitude>=0.1f)
 		{
+			if (move.x<=-0.1f)
+			{
+				animator.SetBool("Run", false);
+				animator.SetBool("Back", true);
+			}
+			else
+			{
+				animator.SetBool("Back", false);
+			}
 			animator.SetBool("Run", true);
 		}
 		else
 		{
 			animator.SetBool("Run", false);
+			animator.SetBool("Back", false);
 		}
-		
 
 		rb.velocity = (move * speed * Time.deltaTime);	
 		if(Input.GetKeyDown(KeyCode.Joystick1Button0) && !dashing)
@@ -168,7 +177,8 @@ public class PlayerCtrl : MonoBehaviour {
 			atkTimer = 0;
 			HitBox.GetComponent<Hit>().atk = true;
 			HitBox.GetComponent<Hit>().aim = move;
-			attaking = true;			
+			attaking = true;
+			animator.SetTrigger("Doble");			
 		}
 		if(Input.GetKeyDown(KeyCode.Joystick1Button1) && !attaking)
 		{
@@ -198,6 +208,14 @@ public class PlayerCtrl : MonoBehaviour {
 			atkTimer = 0;
 			HitBox.GetComponent<Hit>().atk = true;
 			HitBox.GetComponent<Hit>().aim = move;
+			attaking = true;			
+		}
+		if(Input.GetKeyDown(KeyCode.Joystick2Button1) && !attaking)
+		{
+			if(!HitBox.activeSelf) HitBox.SetActive(true);
+			atkTimer = 0;
+			HitBox.GetComponent<Hit>().atk = false;
+			
 			attaking = true;			
 		}
 

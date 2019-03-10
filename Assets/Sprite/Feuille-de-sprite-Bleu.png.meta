@@ -1,0 +1,2032 @@
+fileFormatVersion: 2
+guid: 53f5c34f62dde4a4da0c6fd6a7717f24
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Feuille-de-sprite-Bleu_0
+    21300002: Feuille-de-sprite-Bleu_1
+    21300004: Feuille-de-sprite-Bleu_2
+    21300006: Feuille-de-sprite-Bleu_3
+    21300008: Feuille-de-sprite-Bleu_4
+    21300010: Feuille-de-sprite-Bleu_5
+    21300012: Feuille-de-sprite-Bleu_6
+    21300014: Feuille-de-sprite-Bleu_7
+    21300016: Feuille-de-sprite-Bleu_8
+    21300018: Feuille-de-sprite-Bleu_9
+    21300020: Feuille-de-sprite-Bleu_10
+    21300022: Feuille-de-sprite-Bleu_11
+    21300024: Feuille-de-sprite-Bleu_12
+    21300026: Feuille-de-sprite-Bleu_13
+    21300028: Feuille-de-sprite-Bleu_14
+    21300030: Feuille-de-sprite-Bleu_15
+    21300032: Feuille-de-sprite-Bleu_16
+    21300034: Feuille-de-sprite-Bleu_17
+    21300036: Feuille-de-sprite-Bleu_18
+    21300038: Feuille-de-sprite-Bleu_19
+    21300040: Feuille-de-sprite-Bleu_20
+    21300042: Feuille-de-sprite-Bleu_21
+    21300044: Feuille-de-sprite-Bleu_22
+    21300046: Feuille-de-sprite-Bleu_23
+    21300048: Feuille-de-sprite-Bleu_24
+    21300050: Feuille-de-sprite-Bleu_25
+    21300052: Feuille-de-sprite-Bleu_26
+    21300054: Feuille-de-sprite-Bleu_27
+    21300056: Feuille-de-sprite-Bleu_28
+    21300058: Feuille-de-sprite-Bleu_29
+    21300060: Feuille-de-sprite-Bleu_30
+    21300062: Feuille-de-sprite-Bleu_31
+    21300064: Feuille-de-sprite-Bleu_32
+    21300066: Feuille-de-sprite-Bleu_33
+    21300068: Feuille-de-sprite-Bleu_34
+    21300070: Feuille-de-sprite-Bleu_35
+    21300072: Feuille-de-sprite-Bleu_36
+    21300074: Feuille-de-sprite-Bleu_37
+    21300076: Feuille-de-sprite-Bleu_38
+    21300078: Feuille-de-sprite-Bleu_39
+    21300080: Feuille-de-sprite-Bleu_40
+    21300082: Feuille-de-sprite-Bleu_41
+    21300084: Feuille-de-sprite-Bleu_42
+    21300086: Feuille-de-sprite-Bleu_43
+    21300088: Feuille-de-sprite-Bleu_44
+    21300090: Feuille-de-sprite-Bleu_45
+    21300092: Feuille-de-sprite-Bleu_46
+    21300094: Feuille-de-sprite-Bleu_47
+    21300096: Feuille-de-sprite-Bleu_48
+    21300098: Feuille-de-sprite-Bleu_49
+    21300100: Feuille-de-sprite-Bleu_50
+    21300102: Feuille-de-sprite-Bleu_51
+    21300104: Feuille-de-sprite-Bleu_52
+    21300106: Feuille-de-sprite-Bleu_53
+    21300108: Feuille-de-sprite-Bleu_54
+    21300110: Feuille-de-sprite-Bleu_55
+    21300112: Feuille-de-sprite-Bleu_56
+    21300114: Feuille-de-sprite-Bleu_57
+    21300116: Feuille-de-sprite-Bleu_58
+    21300118: Feuille-de-sprite-Bleu_59
+    21300120: Feuille-de-sprite-Bleu_60
+    21300122: Feuille-de-sprite-Bleu_61
+    21300124: Feuille-de-sprite-Bleu_62
+    21300126: Feuille-de-sprite-Bleu_64
+    21300128: Feuille-de-sprite-Bleu_65
+    21300130: Feuille-de-sprite-Bleu_66
+    21300132: Feuille-de-sprite-Bleu_67
+    21300134: Feuille-de-sprite-Bleu_68
+    21300136: Feuille-de-sprite-Bleu_69
+    21300138: Feuille-de-sprite-Bleu_70
+    21300140: Feuille-de-sprite-Bleu_71
+    21300142: Feuille-de-sprite-Bleu_72
+    21300144: Feuille-de-sprite-Bleu_73
+    21300146: Feuille-de-sprite-Bleu_74
+    21300148: Feuille-de-sprite-Bleu_75
+    21300150: Feuille-de-sprite-Bleu_76
+    21300152: Feuille-de-sprite-Bleu_77
+    21300154: Feuille-de-sprite-Bleu_78
+    21300156: Feuille-de-sprite-Bleu_79
+    21300158: Feuille-de-sprite-Bleu_80
+    21300160: Feuille-de-sprite-Bleu_81
+    21300162: Feuille-de-sprite-Bleu_82
+    21300164: Feuille-de-sprite-Bleu_83
+    21300166: Feuille-de-sprite-Bleu_88
+    21300168: Feuille-de-sprite-Bleu_89
+    21300170: Feuille-de-sprite-Bleu_90
+    21300172: Feuille-de-sprite-Bleu_91
+    21300174: Feuille-de-sprite-Bleu_92
+    21300176: Feuille-de-sprite-Bleu_93
+    21300178: Feuille-de-sprite-Bleu_94
+    21300180: Feuille-de-sprite-Bleu_95
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1932
+        width: 111
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55905b1c2b05a3346831586ef6e8a6b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_1
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1932
+        width: 109
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7773f74810b8f8469e364702d8bb812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1932
+        width: 109
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdcf1f6ff4902a4f879aed7aa5fccc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_3
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1932
+        width: 110
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67594bbdcd174fe4f98e08ec4e0e5d58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_4
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1932
+        width: 106
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2be122863b19174fbe1c0c435f4cf70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_5
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1932
+        width: 108
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f663f03af9b2ce47baf21191d9a77aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_6
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 1932
+        width: 108
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72963a596d33d9e489ed48abbbe31858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_7
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1932
+        width: 108
+        height: 190
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6ac0f3d3f105740af34b9e7e737d32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_8
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1932
+        width: 108
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4051f04336df8d4d85290bdf9faf1b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_9
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1932
+        width: 108
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94701361c8dcfc4a8164800dcfec6a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_10
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1932
+        width: 106
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de170cd671791904395599b3b666fa88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_11
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1932
+        width: 107
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899d9ef52353ab840ba809c387599a85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_12
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 1932
+        width: 108
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24becc6541c949f46898f89c36a085e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_13
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 1932
+        width: 108
+        height: 190
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fe36343c14a6b49a4d439a4fa94d1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_14
+      rect:
+        serializedVersion: 2
+        x: 2456
+        y: 1932
+        width: 108
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd23331dd4e6764eb36347ff5e6e6ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_15
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 1932
+        width: 107
+        height: 190
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab82f20bd4181f418c8ad1452ce3775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_16
+      rect:
+        serializedVersion: 2
+        x: 2789
+        y: 1932
+        width: 108
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f533646e4470deb4886d591b71ebbc22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_17
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 1932
+        width: 107
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d07709e17808884f807acb4b136ecf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_18
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 1932
+        width: 109
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065db6e8a5e1d6a44826a64eaf71ba8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_19
+      rect:
+        serializedVersion: 2
+        x: 3292
+        y: 1932
+        width: 108
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839186aeb9550ef42b267d4d58f59d89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_20
+      rect:
+        serializedVersion: 2
+        x: 3463
+        y: 1932
+        width: 108
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813daa07df0c84d46852a98bcaf4d633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_21
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 1932
+        width: 110
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682b0ca7e160d3a498239d84389d029b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_22
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1543
+        width: 177
+        height: 204
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d481708b46111c4a8d770dc01c3d6ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1543
+        width: 198
+        height: 204
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fec24ece484f34bb4dc45c6575bbde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_24
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1543
+        width: 201
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89faf3e66861ffd4aab48ac41f6ce7e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_25
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1543
+        width: 192
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1a1a5eb00ed384fa101932a360bdfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_26
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1543
+        width: 195
+        height: 198
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cefd49b0bc5ff4297c850131da3533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_27
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1543
+        width: 175
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285ac7e1444bcbe449dbc7a1306bff66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_28
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1543
+        width: 171
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d2352d5b1b73846aececda11a9a663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_29
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1543
+        width: 165
+        height: 201
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35d9ce0e63dd9d479ff07f9bacf9d0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_30
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1543
+        width: 108
+        height: 190
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648582b7f230a004185f686c4b47d375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_31
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1543
+        width: 127
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9a6576f0b423a4f854948ea0ab4300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_32
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1543
+        width: 115
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60aaa6e5beb095b4bb2f1928ecedf51b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_33
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1543
+        width: 108
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2adf22e9bca3e34d99511dc0f168013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_34
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 1543
+        width: 107
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4684bbdbce1449478b965ec058bbb39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_35
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 1543
+        width: 108
+        height: 183
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d8536bbd4e4f2428282a4342dcfd68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_36
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1154
+        width: 118
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e7e4c8fb5ac194aa1f71b2f2edb0b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_37
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1154
+        width: 130
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b9ac8ae1a960a48b344f4e7dcf7ef6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_38
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1154
+        width: 125
+        height: 227
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1491dfb20c390f84793534a10d605955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_39
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1154
+        width: 128
+        height: 233
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c789027e9ec6db4a88a255d2474fb0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_40
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1154
+        width: 128
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a231af64407e64685e637f3654598d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_41
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1154
+        width: 128
+        height: 231
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1023ba0ee2d0c44882b07263a9f007f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_42
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1154
+        width: 146
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf718dbb0e8cb449b383a6f093c28ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_43
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1154
+        width: 165
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4979c603a30fb4b488bb893df1b1a36b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_44
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1154
+        width: 149
+        height: 163
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e7a36d1bcea6646bf83b8d85072269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_45
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1154
+        width: 118
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9367a2cc82180439fe81804a3e4ba2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_46
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 1154
+        width: 108
+        height: 196
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0b9f44416641746a2b0f5f9d02c27e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_47
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 1154
+        width: 108
+        height: 199
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8160b4b8d2443342901789810b7722b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_48
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1154
+        width: 108
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bfafba47c8e06499aaf18819cd141f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_49
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 1154
+        width: 108
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee5c9042b64a2247ba449b1c7123b26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_50
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1154
+        width: 108
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f92b78eec3d1042ae7e9dbd812c09c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_51
+      rect:
+        serializedVersion: 2
+        x: 2623
+        y: 1154
+        width: 108
+        height: 184
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740684b4f3c055a41a4e67589441b12d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_52
+      rect:
+        serializedVersion: 2
+        x: 3603
+        y: 1137
+        width: 165
+        height: 176
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8681c2d1e507f44a1c1901a423563d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_53
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 779
+        width: 140
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c867abf0559a2499a526acbf9115f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_54
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 779
+        width: 123
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d7df5676d4b674fad3a36b66e52508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_55
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 779
+        width: 128
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ab7d9c66662bb45a5dc638f1db50f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_56
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 779
+        width: 150
+        height: 188
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920506f0bd6e7c64b83a26dbeacd76ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_57
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 779
+        width: 154
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42073dfbc58d74649b761eb39cb322b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_58
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 779
+        width: 124
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10949c682ec05f648a8d4ed1cc097fe8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_59
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 755
+        width: 149
+        height: 182
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e900b26acb899e44bcf6d393dc9d869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_60
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 783
+        width: 156
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a231aa88a2344743851414b26c27b72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_61
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 788
+        width: 135
+        height: 212
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec72ccaae3819943ad395029a455235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_62
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 779
+        width: 135
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d5a193eff434e4eb4bb8c4a540d194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_64
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 385
+        width: 114
+        height: 193
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145548c134e459143b61f346a45bac57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_65
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 385
+        width: 128
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a538b830d1cda8c46ad0be6f015146c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_66
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 385
+        width: 130
+        height: 312
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e4bc4989489114ab117dc419512c82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_67
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 385
+        width: 126
+        height: 316
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f969221b115acf4a9afd3b9105da159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_68
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 385
+        width: 124
+        height: 316
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98a5e407793759469bb022dae9cc924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_69
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 385
+        width: 121
+        height: 314
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ed769fcdf876949b40a3f94f6632dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_70
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 385
+        width: 161
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d0cf5746595ba42b1af3743316a055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_71
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 385
+        width: 172
+        height: 197
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4864dbad4540b6f4e91dd8b01cfa4cce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_72
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 385
+        width: 201
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499a2e3be4114104ea6126e94a01b2db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_73
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 385
+        width: 190
+        height: 207
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a50a6142c1bcc14bbdb833d6de06b06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_74
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 385
+        width: 185
+        height: 208
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab168b9c0ea4aa4479eadbb483bb6275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_75
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 385
+        width: 118
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7a187886b60fb45a53a14a91b6c8b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_76
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 385
+        width: 151
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9802b07b62d67ed43914b736f626387e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_77
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 385
+        width: 160
+        height: 203
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726897d009dcf42438985a8ce4b05c55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_78
+      rect:
+        serializedVersion: 2
+        x: 2557
+        y: 385
+        width: 148
+        height: 200
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862fbb0292b04074fb22f1d149c4318c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_79
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 385
+        width: 139
+        height: 192
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b978161e4479dd84b86bb7de58c3a480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_80
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 385
+        width: 109
+        height: 171
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57991b9214dbe41459de530add75a357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_81
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 385
+        width: 109
+        height: 173
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34501f94547ab5d438165c1cef946b7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_82
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 385
+        width: 110
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe22baa6f7efcec49832b1b535492b0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_83
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 385
+        width: 111
+        height: 185
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4511cc1f5c78f5459dbe17f3dc914e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_88
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 41
+        width: 142
+        height: 215
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd9839bb12709e47ab6b1ccf728017f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_89
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 41
+        width: 128
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5266d97d0ed1d74a862aabdc795a425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_90
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 41
+        width: 129
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c336005d14d79ce45b17f16003fa3221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_91
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 41
+        width: 128
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa1f678cf2a2e84ea1f48d607ef36c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_92
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 41
+        width: 129
+        height: 215
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1d9921dd50b04439297abe94e8cccc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_93
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 41
+        width: 128
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5149375c8c4f6c846846ddf6c2331518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_94
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 41
+        width: 128
+        height: 191
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9aa98fce3d9cb1479b54612494c4653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Feuille-de-sprite-Bleu_95
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 41
+        width: 128
+        height: 204
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc4f06d5b03f9543bd519af5c72ba67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 07b4c0895ee632b4e90b31dc774d3a28
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

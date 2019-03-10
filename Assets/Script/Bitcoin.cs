@@ -48,6 +48,7 @@ public class Bitcoin : MonoBehaviour
 			{
 			 Progress = 0;
 			 GrowUpStock = false;
+			 Spawn();
 			}
 			transform.localScale = Vector3.Lerp(InitialScaleTransform, InitialScaleTransform * 2, bumpCurv.Evaluate(Progress * 1/Duration));
 		}
@@ -79,7 +80,7 @@ public class Bitcoin : MonoBehaviour
 		hitCount = 0;
 		if(LastPlayer != 0)
 		{
-			transform.position = new Vector3 (0,4,0);
+			transform.position = new Vector3 (0,15,0);
 			if(LastPlayer == 1) rigidBody.velocity = new Vector2(1,-1);
 			if(LastPlayer == 2) rigidBody.velocity = new Vector2(-1,1);
 		}

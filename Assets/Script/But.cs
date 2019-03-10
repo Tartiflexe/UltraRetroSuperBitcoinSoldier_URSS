@@ -7,6 +7,8 @@ public class But : MonoBehaviour
     int bank = 0;
     public int Nstock;
     public GameObject But_prtcl;
+
+    public Animator animator;
     public enum ButState
     {
         State1, State2, State3
@@ -33,6 +35,8 @@ public class But : MonoBehaviour
         if(Nstock == 0) butState = ButState.State1;
         if(Nstock == 1) butState = ButState.State2;
         if(Nstock == 2) butState = ButState.State3;
+            
+        
         
         switch(butState)
         {
@@ -42,16 +46,28 @@ public class But : MonoBehaviour
 
             case ButState.State2:
               GetComponent<BoxCollider2D>().size = hight2;
+              animator.SetTrigger("1to2");
             break;
 
             case ButState.State3:
               GetComponent<BoxCollider2D>().size = hight3;
+              animator.SetTrigger("2to3");
             break;
         }
     }
     public void Restart()
     {
         Nstock = 0;
+        switch(butState)
+        {
+            case ButState.State2:
+                animator.SetTrigger("2to1");
+            break;
+            
+            case ButState.State3:
+                animator.SetTrigger("3to1");
+            break;
+        }
         ButSizeUpdate();
     }
 	
@@ -72,6 +88,7 @@ public class But : MonoBehaviour
             Instantiate(But_prtcl,Bitcoin.gameObject.transform);
             AddBitcoinToBank();
             Restart();
+            Bitcoin.GetComponent<Bitcoin>().Spawn();
         }
         
     }
