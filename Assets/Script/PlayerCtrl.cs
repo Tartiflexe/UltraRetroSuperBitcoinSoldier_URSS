@@ -23,8 +23,11 @@ public class PlayerCtrl : MonoBehaviour {
 	public AnimationCurve easing;
 	public SpriteGhostTrailRenderer ghost;
 	Vector2 lastBigMove = Vector2.one;
+	public GameObject HitBox;
 
-	float timer;
+	float dashTimer;
+	float atkTimer;
+	bool attaking = false;
 	// Use this for initialization
 	
 	void Start () 
@@ -40,10 +43,12 @@ public class PlayerCtrl : MonoBehaviour {
 		{
 			case PlayerNumber.Player1:
 				InputMoveP1();
+				InputAtkP1();
 			break;
 
 			case PlayerNumber.Player2:
 				InputMoveP2();
+				InputAtkP2();
 			break;
 		}
 
@@ -81,7 +86,7 @@ public class PlayerCtrl : MonoBehaviour {
 				Debug.Log(hit.collider.gameObject);
 				posEndDash = hit.point;
 			} 
-			timer = 0;
+			dashTimer = 0;
 			dashing = true;
 		}
 		if(dashing)
@@ -89,15 +94,15 @@ public class PlayerCtrl : MonoBehaviour {
 			if(!ghost.isActiveAndEnabled)
 				ghost.enabled = true;
 
-			timer+= Time.deltaTime * 5;
-			if(timer>=1)
+			dashTimer+= Time.deltaTime * 6;
+			if(dashTimer>=1)
 			{
-				timer=1;				
+				dashTimer=1;				
 				dashing = false;
 				ghost.enabled = false;
 			}
 			
-			transform.position = Vector3.Lerp(posOnStartDash,posEndDash,easing.Evaluate(timer));
+			transform.position = Vector3.Lerp(posOnStartDash,posEndDash,easing.Evaluate(dashTimer));
 		}
 	}	
 
@@ -135,7 +140,7 @@ public class PlayerCtrl : MonoBehaviour {
 				Debug.Log(hit.collider.gameObject);
 				posEndDash = hit.point;
 			} 
-			timer = 0;
+			dashTimer = 0;
 			dashing = true;
 		}
 		if(dashing)
@@ -143,15 +148,68 @@ public class PlayerCtrl : MonoBehaviour {
 			if(!ghost.isActiveAndEnabled)
 				ghost.enabled = true;
 
-			timer+= Time.deltaTime * 5;
-			if(timer>=1)
+			dashTimer+= Time.deltaTime * 5;
+			if(dashTimer>=1)
 			{
-				timer=1;				
+				dashTimer=1;				
 				dashing = false;
 				ghost.enabled = false;
 			}
 			
-			transform.position = Vector3.Lerp(posOnStartDash,posEndDash,easing.Evaluate(timer));
+			transform.position = Vector3.Lerp(posOnStartDash,posEndDash,easing.Evaluate(dashTimer));
 		}
 	}	
+
+	void InputAtkP1()
+	{
+		if(Input.GetKeyDown(KeyCode.Joystick1Button2) && !attaking)
+		{
+			if(!HitBox.activeSelf) HitBox.SetActive(true);
+			atkTimer = 0;
+			HitBox.GetComponent<Hit>().atk = true;
+			HitBox.GetComponent<Hit>().aim = move;
+			attaking = true;			
+		}
+		if(Input.GetKeyDown(KeyCode.Joystick1Button1) && !attaking)
+		{
+			if(!HitBox.activeSelf) HitBox.SetActive(true);
+			atkTimer = 0;
+			HitBox.GetComponent<Hit>().atk = false;
+			
+			attaking = true;			
+		}
+		if(attaking)
+		{
+			atkTimer += Time.deltaTime;
+			if(atkTimer >=1)
+			{
+				atkTimer =1;
+				HitBox.SetActive(false);
+				attaking = false;
+			}
+		}
+	}
+
+	void InputAtkP2()
+	{
+		if(Input.GetKeyDown(KeyCode.Joystick2Button2) && !attaking)
+		{
+			if(!HitBox.activeSelf) HitBox.SetActive(true);
+			atkTimer = 0;
+			HitBox.GetComponent<Hit>().atk = true;
+			HitBox.GetComponent<Hit>().aim = move;
+			attaking = true;			
+		}
+
+		if(attaking)
+		{
+			atkTimer += Time.deltaTime;
+			if(atkTimer >=1)
+			{
+				atkTimer =1;
+				HitBox.SetActive(false);
+				attaking = false;
+			}
+		}
+	}
 }

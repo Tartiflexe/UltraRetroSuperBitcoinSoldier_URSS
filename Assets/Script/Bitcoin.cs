@@ -2,25 +2,30 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Bitcoin : MonoBehaviour {
-public But P1But;
-public bool GrowUpStock = false;
-public bool GrowUpDouble = false;
-Vector3 InitialScaleTransform;
-public AnimationCurve FlipCoin;
-public But P2But;
-public int Bitvalue;
-public int Startvalue;
-float BitSpeed;
-int LastPlayer;
-Vector2 Velocity;
-Rigidbody2D Rigidbody;
+public class Bitcoin : MonoBehaviour 
+{
+	public But P1But;
+	public bool GrowUpStock = false;
+	public bool GrowUpDouble = false;
+	Vector3 InitialScaleTransform;
+	public AnimationCurve bumpCurv;
 
-float Progress = 0;
-public float Duration = 1;
+	public But P2But;
+	public int Bitvalue;
+	public int Startvalue;
+	float BitSpeed;
+	int LastPlayer;
+
+	public int hitCount = 0;
+	Vector2 Velocity;
+	Rigidbody2D rigidBody;
+
+	float Progress = 0;
+	public float Duration = 1;
 
 	// Use this for initialization
 	void Start () {
+		rigidBody = GetComponent<Rigidbody2D>();
 		InitialScaleTransform = transform.localScale;
 		Startvalue =Bitvalue;
 		Spawn();
@@ -28,7 +33,9 @@ public float Duration = 1;
 	}
 	
 	// Update is called once per frame
-	void Update () {
+	void Update () 
+	{
+		Debug.Log(rigidBody.velocity);
 		if(GrowUpStock == true)
 		{
 			Progress += Time.deltaTime;
@@ -42,34 +49,45 @@ public float Duration = 1;
 			 Progress = 0;
 			 GrowUpStock = false;
 			}
-			transform.localScale = Vector3.Lerp(InitialScaleTransform, InitialScaleTransform * 2, FlipCoin.Evaluate(Progress * 1/Duration));
+			transform.localScale = Vector3.Lerp(InitialScaleTransform, InitialScaleTransform * 2, bumpCurv.Evaluate(Progress * 1/Duration));
 		}
 		if(GrowUpDouble == true)
 		{
-			Progress += Time.deltaTime;
-			if(Progress >= 1 )//fin anim jump
+			float _currSpeed = rigidBody.velocity.magnitude;
+			if(Mathf.Abs(_currSpeed)>=100)
 			{
-			 Progress = 0;
-			 GrowUpDouble = false;
-			 Rigidbody.velocity = Velocity * -2;
+				Progress += Time.deltaTime;
+				if(Progress >= 1 )//fin anim jump
+				{
+					Progress = 0;			 
+					rigidBody.velocity = Velocity * hitCount;
+					GrowUpDouble = false;
+				}
+				transform.localScale = Vector3.Lerp(InitialScaleTransform, InitialScaleTransform * 2, bumpCurv.Evaluate(Progress * 1/Duration));
 			}
-			transform.localScale = Vector3.Lerp(InitialScaleTransform, InitialScaleTransform * 2, FlipCoin.Evaluate(Progress * 1/Duration));
+			else
+			{
+				rigidBody.velocity = Velocity * hitCount;
+				GrowUpDouble = false;
+			}
+			
 		}
 	
 	}
 	public void Spawn()
 	{
+		hitCount = 0;
 		if(LastPlayer != 0)
 		{
-		transform.position = new Vector3 (0,4,0);
-		if(LastPlayer == 1) Rigidbody.velocity = new Vector2(1,-1);
-		if(LastPlayer == 2) Rigidbody.velocity = new Vector2(-1,1);
+			transform.position = new Vector3 (0,4,0);
+			if(LastPlayer == 1) rigidBody.velocity = new Vector2(1,-1);
+			if(LastPlayer == 2) rigidBody.velocity = new Vector2(-1,1);
 		}
 		transform.position = new Vector3 (0,0,0);
 	}
 	public void Stock(int Playerindex)
 	{
-		Rigidbody.velocity = new Vector2 (0,0);
+		rigidBody.velocity = new Vector2 (0,0);
 		if(Playerindex == 1)
 		{
 			LastPlayer = Playerindex;
@@ -88,15 +106,18 @@ public float Duration = 1;
 		}
 
 	}
-	public void Double(int Playerindex)
+	public void Double(int Playerindex, Vector2 aim)
 	{
-		Velocity = Rigidbody.velocity;
-		Rigidbody.velocity = new Vector2 (0,0);
+		Debug.Log("DOUBLE!!!");
+		Velocity = aim;
+		rigidBody.velocity = new Vector2 (0,0);
 		LastPlayer = Playerindex;
 		Bitvalue = Bitvalue * 2;
+		hitCount ++;
 		GrowUpDouble = true;
 	
 	}
+
 }
 /*using System.Collections;
 using System.Collections.Generic;
