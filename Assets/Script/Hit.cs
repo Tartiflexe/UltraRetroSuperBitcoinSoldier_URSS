@@ -14,17 +14,25 @@ public class Hit : MonoBehaviour {
 		
 		if(playerIndex == 1) 
 		{
-			aim.x = 1f;
+			aim.x = 5f;
 		}
 		else if(playerIndex == 2)
 		{
-			aim.x = -1f;
+			aim.x = -5f;
 		}
 
-		if(other.GetComponent<Bitcoin>().hitCount == 0)
+		/* if(other.GetComponent<Bitcoin>().hitCount == 0)
 		{			
-			other.GetComponent<Rigidbody2D>().velocity = aim.normalized * 200000;
-		}
+			if(playerIndex == 1) 
+			{
+				aim.x = 10f;
+			}
+			else if(playerIndex == 2)
+			{
+				aim.x = -10f;
+			}
+			other.GetComponent<Rigidbody2D>().velocity = aim;
+		}*/
 
 		if(atk)
 		{

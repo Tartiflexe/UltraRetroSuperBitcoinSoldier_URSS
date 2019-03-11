@@ -9,14 +9,15 @@ public class Bitcoin : MonoBehaviour
 	public bool GrowUpDouble = false;
 	Vector3 InitialScaleTransform;
 	public AnimationCurve bumpCurv;
-
+	public Animator stockP1;
+	public Animator stockP2;
 	public But P2But;
 	public int Bitvalue;
 	public int Startvalue;
 	float BitSpeed;
 	int LastPlayer;
 
-	public int hitCount = 0;
+	public float hitCount = 0;
 	Vector2 Velocity;
 	Rigidbody2D rigidBody;
 
@@ -40,7 +41,7 @@ public class Bitcoin : MonoBehaviour
 		{
 			Progress += Time.deltaTime;
 			if(transform.localScale.x == 2)//StopAnimTop
-			{
+			{				
 				Progress = 1;
 				Spawn();
 			}
@@ -61,7 +62,7 @@ public class Bitcoin : MonoBehaviour
 				if(Progress >= 1 )//fin anim jump
 				{
 					Progress = 0;			 
-					rigidBody.velocity = Velocity * hitCount;
+					rigidBody.velocity = Velocity;// * hitCount;
 					GrowUpDouble = false;
 				}
 				transform.localScale = Vector3.Lerp(InitialScaleTransform, InitialScaleTransform * 2, bumpCurv.Evaluate(Progress * 1/Duration));
@@ -91,14 +92,16 @@ public class Bitcoin : MonoBehaviour
 		rigidBody.velocity = new Vector2 (0,0);
 		if(Playerindex == 1)
 		{
+			stockP1.SetTrigger("Stock");
 			LastPlayer = Playerindex;
 			P1But.Nstock ++;
 			P1But.ButSizeUpdate();
 			P1But.AddBitcoinToBank();	
 			GrowUpStock = true;
 		}
-		if(Playerindex == 2)
+		else if(Playerindex == 2)
 		{
+			stockP2.SetTrigger("Stock");
 			LastPlayer = Playerindex;
 			P2But.Nstock ++;
 			P2But.ButSizeUpdate();
@@ -114,7 +117,7 @@ public class Bitcoin : MonoBehaviour
 		rigidBody.velocity = new Vector2 (0,0);
 		LastPlayer = Playerindex;
 		Bitvalue = Bitvalue * 2;
-		hitCount ++;
+		hitCount += 0.5f;
 		GrowUpDouble = true;
 	
 	}

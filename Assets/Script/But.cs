@@ -9,6 +9,13 @@ public class But : MonoBehaviour
     public GameObject But_prtcl;
 
     public Animator animator;
+    public Animator goalAnim;
+    public GameObject player;
+     public enum Team
+    {
+        Blue,Red
+    }
+    public Team team;
     public enum ButState
     {
         State1, State2, State3
@@ -76,7 +83,7 @@ public class But : MonoBehaviour
 		LastBitcoin = RefBitcoin.gameObject.GetComponent<Bitcoin>().Bitvalue;
         bank += RefBitcoin.gameObject.GetComponent<Bitcoin>().Bitvalue;
         RefBitcoin.gameObject.GetComponent<Bitcoin>().Bitvalue = RefBitcoin.gameObject.GetComponent<Bitcoin>().Startvalue;
-		GameObject newScore = Instantiate(Score, RefBitcoin.transform.position,new Quaternion(0,0,0,1));
+		GameObject newScore = Instantiate(Score, player.transform.position,new Quaternion(0,0,0,1));
 		newScore.GetComponent<Score>().SetText(LastBitcoin);
 		
 
@@ -85,6 +92,17 @@ public class But : MonoBehaviour
     {
         if( Bitcoin.gameObject.CompareTag("Bitcoin"))
         {
+            switch(team)
+            {
+                case Team.Blue:
+                    goalAnim.SetBool("blue/red",false);
+                break;
+
+                case Team.Red:
+                    goalAnim.SetBool("blue/red",true);
+                break;
+            }
+            goalAnim.SetTrigger("Goal");
             Instantiate(But_prtcl,Bitcoin.gameObject.transform);
             AddBitcoinToBank();
             Restart();

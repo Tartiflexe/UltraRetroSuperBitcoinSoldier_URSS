@@ -184,10 +184,11 @@ public class PlayerCtrl : MonoBehaviour {
 		{
 			if(!HitBox.activeSelf) HitBox.SetActive(true);
 			atkTimer = 0;
-			HitBox.GetComponent<Hit>().atk = false;
-			
-			attaking = true;			
+			HitBox.GetComponent<Hit>().atk = false;			
+			attaking = true;
+			animator.SetTrigger("Stock");				
 		}
+		
 		if(attaking)
 		{
 			atkTimer += Time.deltaTime;
@@ -215,9 +216,9 @@ public class PlayerCtrl : MonoBehaviour {
 		{
 			if(!HitBox.activeSelf) HitBox.SetActive(true);
 			atkTimer = 0;
-			HitBox.GetComponent<Hit>().atk = false;
-			
-			attaking = true;			
+			HitBox.GetComponent<Hit>().atk = false;			
+			attaking = true;	
+			animator.SetTrigger("Stock");			
 		}
 
 		if(attaking)
